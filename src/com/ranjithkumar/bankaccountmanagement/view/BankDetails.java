@@ -1,4 +1,4 @@
-package accounts;
+package view;
 import java.util.*;
 import Management.BankDatabase;
 
