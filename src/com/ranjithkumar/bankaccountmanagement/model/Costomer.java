@@ -1,4 +1,4 @@
-package accounts;
+package model;
 
 public class Costomer {
 	private long accountNumber;
