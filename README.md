@@ -2,7 +2,7 @@
   - AdminLogin
   - userLogin
   # Admin
-    - New Account
-    - view Costomer Details
+  - New Account
+  - view Costomer Details
   
   
