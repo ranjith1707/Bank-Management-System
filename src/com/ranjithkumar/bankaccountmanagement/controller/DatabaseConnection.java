@@ -11,7 +11,7 @@ public class DatabaseConnection {
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			Connection connect = DriverManager.getConnection("jdbc:mysql://localhost:3306/bank_account_management",
-					"root", "Ranjithkumar@1705");
+					"root", "root#DB");
 			statement = connect.createStatement();
 
 		} catch (Exception e) {
